@@ -56,11 +56,14 @@ A personal finance dashboard built in Excel using data from Kaggle.
   <a href="https://www.linkedin.com/in/molla-adunga-2a37b4113/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- <a href="mailto:mollaadugna@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+  <a href="mailto:mollaadugna@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://mollaadugna.wixsite.com/molla-adugna-1">
+    <img src="https://img.shields.io/badge/Portfolio-2C2C2C?style=for-the-badge&logo=wix&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
