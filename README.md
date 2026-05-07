@@ -1,40 +1,37 @@
 <h1 align="center">Hi there 👋, I'm Molla Adugna</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analyst-Excel%20%7C%20SQL%20%7C%20Tableau%20%7C%20Python-blue?style=flat-square&logo=databricks" alt="Skills Badge" />
+  <img src="https://copilot.microsoft.com/th/id/BCO.e206dbab-bde5-4fc1-b1ac-390bf3b3381a.png" alt="Portfolio Banner"/>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/💰_Personal_Finance_Tracker-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/📊_ETL_Automation_Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/📘_Income_Expense_Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
 ---
 
 ## 🔍 About Me
 
-🎯 I am a **Data Analyst** passionate about solving real-world problems with data. I specialize in transforming raw data into interactive dashboards and actionable insights using:
+🎯 I’m a **Data Analyst** passionate about turning raw data into actionable insights and interactive dashboards.  
+I specialize in:
 
 - 📊 **Excel** – Advanced functions, PivotTables, Power Query, Dashboards  
 - 🐍 **Python** – pandas, matplotlib, seaborn, Jupyter  
-- 🗂️ **SQL** – Writing efficient queries for data wrangling and reporting  
-- 📈 **Tableau** – Interactive dashboards and storytelling with data
+- 🗂️ **SQL** – Efficient queries for wrangling and reporting  
+- 📈 **Tableau** – Interactive dashboards and data storytelling  
+- 💡 **Power BI** – Data modeling, DAX, and dynamic visual reports  
 
 ---
 
-## 💼 Portfolio Projects
+## 💼 Featured Portfolio Projects (Quick View)
 
-Here are some of my featured projects:
-
-### 📘 [Income and Expense Dashboard](https://github.com/Molla-Adugna/Income-And-Expense-Excel-Dashboard)
-A personal finance dashboard built in Excel using data from Kaggle.
-
-| 📊 Dashboard Preview |
-|----------------------|
-| <img src="https://github.com/Molla-Adugna/Income-And-Expense-Excel-Dashboard/blob/main/Income%20and%20Expense%20Dashboar.png"/> |
-
-**Features:**
-- Clean, dynamic design using slicers and charts  
-- Monthly & Category summary with visual charts  
-- PivotTables and custom Excel formulas
-
-🔗 [Download Excel File](https://github.com/Molla-Adugna/Income-And-Expense-Excel-Dashboard/blob/main/Income%20and%20Expense%20Dashboard(data%20from%20Kaggle).xlsx)
+| Project | Thumbnail | Highlights |
+|---------|-----------|------------|
+| [💰 Personal Finance Tracker](https://github.com/Molla-Adugna/personal-finance-tracker-project) | <img src="https://github.com/Molla-Adugna/Personal_Finance_Tracker_Project/blob/main/Python_Personal_Finance_Tracker_Thumbnail-Updated.jpg?raw=true" width="200"/> | • Python CLI tool<br>• Expense logging & CSV storage<br>• Monthly summaries & charts |
+| [📊 ETL Automation with Power Query](https://github.com/Molla-Adugna/ETL_AUTOMATION_WITH_POWER_QUERY) | <img src="https://github.com/Molla-Adugna/ETL_AUTOMATION_WITH_POWER_QUERY/blob/main/ETL_Automation_PowerQuery/ETL-AUTOMATION_WITH_POWER_QUERY_THUMNAIL.jpg?raw=true" width="200"/> | • Automated ETL workflows<br>• Data integrity validation<br>• Faster reporting in Power BI |
+| [📘 Income & Expense Dashboard](https://github.com/Molla-Adugna/Income-And-Expense-Excel-Dashboard) | <img src="https://github.com/Molla-Adugna/Income-And-Expense-Excel-Dashboard/blob/main/Income%20and%20Expense%20Dashboar.png" width="200"/> | • Excel dashboard with slicers<br>• Monthly & category summaries<br>• PivotTables + custom formulas |
 
 ---
 
@@ -44,8 +41,9 @@ A personal finance dashboard built in Excel using data from Kaggle.
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=yellow" />
 </p>
 
 ---
@@ -63,7 +61,6 @@ A personal finance dashboard built in Excel using data from Kaggle.
     <img src="https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=wix&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
