@@ -5,9 +5,7 @@
 ![Banner](https://github.com/Molla-Adugna/molla-adugna/blob/main/image/Banner%20with%20my%20photo%20by%20Copilot%20(1)23.png?raw=true)
 
 
-<p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.e206dbab-bde5-4fc1-b1ac-390bf3b3381a.png" alt="Portfolio Banner"/>
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/💰_Personal_Finance_Tracker-3776AB?style=for-the-badge&logo=python&logoColor=white" />
