@@ -63,7 +63,12 @@ I specialize in:
   <a href="https://mollaadugna.wixsite.com/molla-adugna-1">
     <img src="https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=wix&logoColor=white" />
   </a>
+  <a href="https://www.fiverr.com/molla_adugna?public_mode=true">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
 </p>
+
+
 
 ---
 
