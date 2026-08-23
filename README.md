@@ -17,7 +17,7 @@
 
 ## 🔍 About Me
 
-🎯 I specialize in **turning raw data into actionable insights** that improve healthcare outcomes and business performance.
+🎯 **I specialize in turning raw data into actionable insights** that improve healthcare outcomes and business performance.
 
 I am a **Healthcare & Business Data Analyst** with expertise in:
 
