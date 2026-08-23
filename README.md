@@ -17,8 +17,9 @@
 
 ## 🔍 About Me
 
-🎯 I’m a **Data Analyst** passionate about turning raw data into actionable insights and interactive dashboards.  
-I specialize in:
+🎯 I specialize in **turning raw data into actionable insights** that improve healthcare outcomes and business performance.
+
+I am a **Healthcare & Business Data Analyst** with expertise in:
 
 - 📊 **Excel** – Advanced functions, PivotTables, Power Query, Dashboards  
 - 🐍 **Python** – pandas, matplotlib, seaborn, Jupyter  
