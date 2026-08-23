@@ -25,7 +25,9 @@ I am a **Healthcare & Business Data Analyst** with expertise in:
 - 🐍 **Python** – pandas, matplotlib, seaborn, Jupyter  
 - 🗂️ **SQL** – Efficient queries for wrangling and reporting  
 - 📈 **Tableau** – Interactive dashboards and data storytelling  
-- 💡 **Power BI** – Data modeling, DAX, and dynamic visual reports  
+- 💡 **Power BI** – Data modeling, DAX, and dynamic visual reports
+  
+**My featured projects include solutions like a Personal Finance Tracker (Python CLI tool with expense logging, CSV storage, and monthly summaries with charts)**, showcasing my ability to combine technical skills with practical, real‑world applications.
 
 ---
 
