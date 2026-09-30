@@ -5,13 +5,24 @@
 ![Banner](https://github.com/Molla-Adugna/molla-adugna/blob/main/image/Banner%20with%20my%20photo%20by%20Copilot%20(1)23.png?raw=true)
 
 
-
+## Featured Projects
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💰_Personal_Finance_Tracker-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/📊_ETL_Automation_Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/📘_Income_Expense_Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <a href="https://github.com/Molla-Adugna/healthcare-data-cleaning-and-quality-assessment">
+    <img src="https://img.shields.io/badge/%F0%9F%8F%A5%20Healthcare%20Data%20Cleaning%20%26%20Quality%20Assessment-0078D4?style=for-the-badge&logo=python&logoColor=white" alt="Healthcare Data Cleaning" />
+  </a>
+  <a href="https://github.com/Molla-Adugna/personal-finance-tracker-project">
+    <img src="https://img.shields.io/badge/%F0%9F%92%B0%20Personal%20Finance%20Tracker-4682B4?style=for-the-badge&logo=python&logoColor=white" alt="Personal Finance Tracker" />
+  </a>
+  <a href="https://github.com/Molla-Adugna/etl-automation-with-power-query">
+    <img src="https://img.shields.io/badge/%F0%9F%93%8A%20ETL%20Automation%20with%20Power%20Query-1E7145?style=for-the-badge&logo=microsoftpowerbi&logoColor=white" alt="ETL Automation" />
+  </a>
+  <a href="https://github.com/Molla-Adugna/income-and-expense-excel-dashboard">
+    <img src="https://img.shields.io/badge/%F0%9F%93%8A%20Income%20and%20Expense%20Excel%20Dashboard-F25022?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Income and Expense Dashboard" />
+  </a>
 </p>
+
+
 
 ---
 
