@@ -44,11 +44,98 @@ I am a **Healthcare & Business Data Analyst** with expertise in:
 
 ## 💼 Featured Portfolio Projects (Quick View)
 
-| Project | Thumbnail | Highlights |
-|---------|-----------|------------|
-| [💰 Personal Finance Tracker](https://github.com/Molla-Adugna/personal-finance-tracker-project) | <img src="https://github.com/Molla-Adugna/Personal_Finance_Tracker_Project/blob/main/Python_Personal_Finance_Tracker_Thumbnail-Updated.jpg?raw=true" width="200"/> | • Python CLI tool<br>• Expense logging & CSV storage<br>• Monthly summaries & charts |
-| [📊 ETL Automation with Power Query](https://github.com/Molla-Adugna/ETL_AUTOMATION_WITH_POWER_QUERY) | <img src="https://github.com/Molla-Adugna/ETL_AUTOMATION_WITH_POWER_QUERY/blob/main/ETL_Automation_PowerQuery/ETL-AUTOMATION_WITH_POWER_QUERY_THUMNAIL.jpg?raw=true" width="200"/> | • Automated ETL workflows<br>• Data integrity validation<br>• Faster reporting in Power BI |
-| [📘 Income & Expense Dashboard](https://github.com/Molla-Adugna/Income-And-Expense-Excel-Dashboard) | <img src="https://github.com/Molla-Adugna/Income-And-Expense-Excel-Dashboard/blob/main/Income%20and%20Expense%20Dashboar.png" width="200"/> | • Excel dashboard with slicers<br>• Monthly & category summaries<br>• PivotTables + custom formulas |
+
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="center">Project</th>
+      <th align="center">Thumbnail</th>
+      <th align="left">Highlights</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Row 1: Healthcare Data Cleaning & Quality Assessment -->
+    <tr>
+      <td align="center" width="25%">
+        <a href="https://github.com/Molla-Adugna/healthcare-data-cleaning-and-quality-assessment">
+          <b>🏥 Healthcare Data Cleaning & Quality Assessment</b>
+        </a>
+      </td>
+      <td align="center" width="40%">
+        <a href="https://github.com/Molla-Adugna/healthcare-data-cleaning-and-quality-assessment">
+          <img src="https://github.com/Molla-Adugna/healthcare-data-cleaning-and-quality-assessment/blob/main/images/healthcare_data_cleaning_and_quality_assesment2.png?raw=true" alt="Healthcare Data Cleaning Thumbnail" width="100%">
+        </a>
+      </td>
+      <td align="left" width="35%">
+        <ul>
+          <li>Healthcare data validation & profiling</li>
+          <li>Automated anomaly detection & cleaning</li>
+          <li>Standardized clinical reporting datasets</li>
+        </ul>
+      </td>
+    </tr>
+    <!-- Row 2: Personal Finance Tracker -->
+    <tr>
+      <td align="center" width="25%">
+        <a href="https://github.com/Molla-Adugna/personal-finance-tracker-project">
+          <b>💰 Personal Finance Tracker</b>
+        </a>
+      </td>
+      <td align="center" width="40%">
+        <a href="https://github.com/Molla-Adugna/personal-finance-tracker-project">
+          <img src="https://github.com/Molla-Adugna/personal-finance-tracker-project/blob/main/Python_Personal_Finance_Tracker_Thumbnail-Updated.jpg?raw=true" alt="Personal Finance Tracker Thumbnail" width="100%">
+        </a>
+      </td>
+      <td align="left" width="35%">
+        <ul>
+          <li>Python CLI tool</li>
+          <li>Expense logging & CSV storage</li>
+          <li>Monthly summaries & charts</li>
+        </ul>
+      </td>
+    </tr>
+    <!-- Row 3: ETL Automation with Power Query -->
+    <tr>
+      <td align="center" width="25%">
+        <a href="https://github.com/Molla-Adugna/etl-automation-with-power-query">
+          <b>📊 ETL Automation with Power Query</b>
+        </a>
+      </td>
+      <td align="center" width="40%">
+        <a href="https://github.com/Molla-Adugna/etl-automation-with-power-query">
+          <img src="https://github.com/Molla-Adugna/etl-automation-with-power-query/blob/main/ETL_Automation_PowerQuery/ETL-AUTOMATION_WITH_POWER_QUERY_THUMNAIL.jpg?raw=true" alt="ETL Automation Thumbnail" width="100%">
+        </a>
+      </td>
+      <td align="left" width="35%">
+        <ul>
+          <li>Automated ETL workflows</li>
+          <li>Data integrity validation</li>
+          <li>Faster reporting in Power BI</li>
+        </ul>
+      </td>
+    </tr>
+    <!-- Row 4: Income & Expense Dashboard -->
+    <tr>
+      <td align="center" width="25%">
+        <a href="https://github.com/Molla-Adugna/income-and-expense-excel-dashboard">
+          <b>📊 Income & Expense Dashboard</b>
+        </a>
+      </td>
+      <td align="center" width="40%">
+        <a href="https://github.com/Molla-Adugna/income-and-expense-excel-dashboard">
+          <img src="https://github.com/Molla-Adugna/income-and-expense-excel-dashboard/raw/main/Income%20and%20Expense%20Dashboar.png" alt="Income & Expense Dashboard Thumbnail" width="100%">
+        </a>
+      </td>
+      <td align="left" width="35%">
+        <ul>
+          <li>Excel dashboard with slicers</li>
+          <li>Monthly & category summaries</li>
+          <li>PivotTables + custom formulas</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
