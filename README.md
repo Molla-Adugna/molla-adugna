@@ -38,9 +38,11 @@ I am a **Healthcare & Business Data Analyst** with expertise in:
 - 📈 **Tableau** – Interactive dashboards and data storytelling  
 - 💡 **Power BI** – Data modeling, DAX, and dynamic visual reports
   
-**My featured projects include solutions like a Personal Finance Tracker (Python CLI tool with expense logging, CSV storage, and monthly summaries with charts)**, showcasing my ability to combine technical skills with practical, real‑world applications.
 
----
+<strong>
+My featured projects showcase expertise in healthcare data analytics, data cleaning, validation, and quality assessment using Python. Highlights include the Healthcare Data Cleaning & Quality Assessment project, where I applied real-world data quality techniques such as validation, profiling, anomaly detection, and reporting to transform raw healthcare data into reliable, analysis-ready datasets.
+</strong>  
+
 
 ## 💼 Featured Portfolio Projects (Quick View)
 
