@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub Profile 👋
 
-![Banner](https://github.com/Molla-Adugna/molla-adugna/blob/main/image/Banner%20with%20my%20photo%20by%20Copilot%20(1)23.png?raw=true)
+![Banner](https://github.com/Molla-Adugna/molla-adugna/blob/main/image/Molla%20Adugna_%20Data%20Analytics%20Banner.png?raw=true)
 
 
 ## Featured Projects
